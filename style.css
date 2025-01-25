@@ -19,6 +19,9 @@ h1{
 main > h2 {
     text-align: center;
     font-size: 25px;
-    background-color: aqua;
+   
 }
 
+body{
+    background-color: aqua;
+}
